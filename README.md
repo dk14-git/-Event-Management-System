@@ -11,15 +11,15 @@ The Event Management System is an online software project that serves as an even
 
 
 # Classes
-**Event class:** Manages the properties and operations related to events.<br>
-**Tournament class:** Represents tournament events and their specific details.<br>
-**Main class:** Contains the main entry point for the application.<br>
-**Customer class:** Manages customer information and interactions.<br>
-**Admin class:** Handles admin-related functionalities and permissions.<br>
-**Birthday class:** Represents birthday party events and their specific details.<br>
-**Shows class:** Represents show or concert events and their specific details.<br>
-**User class:** Handles user-related functionalities and operations.<br>
-**Guest class:** Represents guest users and their limited access to system functionalities.<br>
+**Event class:** 
+**Tournament class:**
+**Main class:** 
+**Customer class:** 
+**Admin class:** 
+**Birthday class:** 
+**Shows class:** 
+**User class:** 
+**Guest class:** 
 <br>
 Please refer to the respective Java files for more detailed information about each class.<br>
 
